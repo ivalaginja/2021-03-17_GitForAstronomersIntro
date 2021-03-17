@@ -9,3 +9,5 @@ circulaire des planètes du Système solaire avec une excentricité orbitale pre
 sa lente rotation, est quasiment sphérique (aplatissement considéré comme nul). Elle ne possède pas de satellite naturel.
 
 Taken from https://fr.wikipedia.org/wiki/V%C3%A9nus_(plan%C3%A8te)
+
+This is a test sentence.
