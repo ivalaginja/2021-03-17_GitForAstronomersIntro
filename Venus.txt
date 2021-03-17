@@ -1,0 +1,11 @@
+Vénus est la deuxième planète du Système solaire par ordre d'éloignement au Soleil, et la sixième plus grosse
+aussi bien par la masse que le diamètre. Elle doit son nom à la déesse romaine de l'amour.
+
+Vénus orbite autour du Soleil tous les 224,7 jours terrestres. Avec une période de rotation de 243 jours
+terrestres, il lui faut plus de temps pour tourner autour de son axe que toute autre planète du Système
+solaire. Comme Uranus, elle possède une rotation rétrograde et tourne dans le sens opposé à celui des
+autres planètes : le soleil s'y lève à l'ouest et se couche à l'est. Vénus possède l'orbite la plus
+circulaire des planètes du Système solaire avec une excentricité orbitale presque nulle et, du fait de
+sa lente rotation, est quasiment sphérique (aplatissement considéré comme nul). Elle ne possède pas de satellite naturel.
+
+Taken from https://fr.wikipedia.org/wiki/V%C3%A9nus_(plan%C3%A8te)

@@ -1,0 +1,11 @@
+Der Mars ist, von der Sonne aus gezählt, der vierte Planet im Sonnensystem und der äußere Nachbar der Erde. Er zählt
+zu den erdähnlichen (terrestrischen) Planeten.
+
+Let's ask Matt Damon about growing potatoes on Mars.
+
+Sein Durchmesser ist mit knapp 6800 Kilometern etwa halb so groß wie der der Erde, sein Volumen beträgt gut ein
+Siebtel des Erdvolumens. Damit ist der Mars nach dem Merkur der zweitkleinste Planet des Sonnensystems, hat jedoch
+eine vielfältige Geologie und die höchsten Vulkane des Sonnensystems. Mit einer durchschnittlichen Entfernung von
+228 Millionen Kilometern ist er rund 1,5-mal so weit von der Sonne entfernt wie die Erde.
+
+Taken from https://de.wikipedia.org/wiki/Mars_(Planet)
